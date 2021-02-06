@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/magik_ball_2.0/static/css/main.2ab45a60.chunk.css",
+    "main.js": "/magik_ball_2.0/static/js/main.0d276f3e.chunk.js",
+    "main.js.map": "/magik_ball_2.0/static/js/main.0d276f3e.chunk.js.map",
+    "runtime-main.js": "/magik_ball_2.0/static/js/runtime-main.5f3dacdc.js",
+    "runtime-main.js.map": "/magik_ball_2.0/static/js/runtime-main.5f3dacdc.js.map",
+    "static/js/2.71abe5f4.chunk.js": "/magik_ball_2.0/static/js/2.71abe5f4.chunk.js",
+    "static/js/2.71abe5f4.chunk.js.map": "/magik_ball_2.0/static/js/2.71abe5f4.chunk.js.map",
+    "index.html": "/magik_ball_2.0/index.html",
+    "static/css/main.2ab45a60.chunk.css.map": "/magik_ball_2.0/static/css/main.2ab45a60.chunk.css.map",
+    "static/js/2.71abe5f4.chunk.js.LICENSE.txt": "/magik_ball_2.0/static/js/2.71abe5f4.chunk.js.LICENSE.txt",
+    "static/media/magic.39eaa156.mp3": "/magik_ball_2.0/static/media/magic.39eaa156.mp3",
+    "static/media/App.css": "/magik_ball_2.0/static/media/ПРЕВЬЮ -восстановлено.077b2dbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f3dacdc.js",
+    "static/js/2.71abe5f4.chunk.js",
+    "static/css/main.2ab45a60.chunk.css",
+    "static/js/main.0d276f3e.chunk.js"
+  ]
+}

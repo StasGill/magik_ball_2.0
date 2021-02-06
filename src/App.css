@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.ballContainer{
+  background-image: url(./ПРЕВЬЮ\ -восстановлено.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 400px;
+  height: 400px;
+  margin: 15px auto 15px auto;
+  text-align: center;
+  cursor: pointer;
+  color: white;
+  padding: 100px;
+   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30),
+   0 15px 12px rgba(0, 0, 0, 0.22);
+   /* animation: App-logo-spin infinite 20s linear; */
+  
+}
+.ballTeazer{
+  font-weight: bold;
+  font-size: 55px;
+  /* margin-top: 40px;
+  margin-left: 100px;
+  margin-bottom: 50px; */
+  animation-name: App-logo-spin;
+}
+.ballWish{
+  width: 300px;
+  font-size: 25px;
+  margin-left: 60px;
+  margin-top: 80px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.alert-appear {
+  transform: rotate(360deg);
+}
+
+.alert-appear-active {
+  transform: rotate(0deg);
+  transition: transform 300ms linear;
+}
+
+
+.enter {
+  transform: scale(0);
+}
+
+.enterActive {
+  transform: scale(1);
+  transition: transform 200ms ease-in-out;
+}
+
+.exit {
+  transform: scale(1);
+}
+
+.exitActive {
+  transform: scale(0);
+  transition: transform 200ms ease-in-out;
+}
